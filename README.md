@@ -17,6 +17,6 @@
 Quiero aprender:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,mysql" />
+    <img src="https://skillicons.dev/icons?i=css,html,mysql" />
   </a>
 </p>
