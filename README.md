@@ -14,7 +14,7 @@
   </a>
 </p>
 
-Quiero aprender:
+- Quiero aprender:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,mysql" />
