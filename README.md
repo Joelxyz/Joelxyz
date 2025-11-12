@@ -1,6 +1,4 @@
-## Hola
-
-## Estudiante de ITB, cursando DAWe
+## Soy Joel, estudiante de ITB, cursando DAWe
 <!--
 - 🔭 I’m currently working on ...
 
