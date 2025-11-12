@@ -8,7 +8,11 @@
 -->
 - 📫 Contacto: joel.cervantes.7e6@itb.cat
 - 🌱 Estoy aprendiendo: Kotlin
-  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+</p>
 
 Quiero aprender:
 <p align="left">
